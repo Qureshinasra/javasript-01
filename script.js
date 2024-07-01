@@ -1,5 +1,5 @@
-console.log("hello nasra Qureshi");
-console.log("Hello Techno students")
+// console.log("hello nasra Qureshi");
+// console.log("Hello Techno students")
 
 //variables
 //let message = "The Password Is Incorrect";
@@ -124,8 +124,8 @@ console.log("Hello Techno students")
 // alert(2 + 2 + '1' ); 
 
 // 3.string operator 
-let s = "my" + "string";
-alert(s); // mystring
+// let s = "my" + "string";
+// alert(s); // mystring
 
 //  4.increment and decement operator 
 // ++x pre-increment ...increment x by 1 then return x 
